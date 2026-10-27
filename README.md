@@ -9,7 +9,7 @@ Analytical data professional with strong operational retail & e-commerce backgro
 * **Tech Stack:** SQL (ClickHouse, PostgreSQL), Power BI (DAX), Metabase, DWH Data Marts, AI-assisted SQL/DAX development, Python.
 
 ## 📂 Featured Projects
-- [Branch Performance Benchmarking](./data-analytics-portfolio/tree/main/Branch_Performance_Analysis) – Identifying "Gold Standard" efficiency across regions.
+- [Branch Performance Benchmarking](Branch_Performance_Analysis) – Identifying "Gold Standard" efficiency across regions.
 - [Incentive Pay Impact](./data-analytics-portfolio/tree/main/Incentive_Impact_Analysis) – Analyzing how piecework models affect operational speed.
 - [Learning Curve Analysis](./data-analytics-portfolio/tree/main/Employee_Learning_Curve) – Measuring the time-to-proficiency for new hires.
 
