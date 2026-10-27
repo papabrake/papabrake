@@ -8,10 +8,7 @@ Analytical data professional with strong operational retail & e-commerce backgro
 * **Business Impact:** Finding correlations between operational processes, staff motivation models, and unit economics.
 * **Tech Stack:** SQL (ClickHouse, PostgreSQL), Power BI (DAX), Metabase, DWH Data Marts, AI-assisted SQL/DAX development, Python.
 
-## 📂 Featured Projects
-- [Branch Performance Benchmarking]([Branch_Performance_Analysis](https://github.com/papabrake/data-analytics-portfolio/tree/main/Branch_Performance_Analysis)) – Identifying "Gold Standard" efficiency across regions.
-- [Incentive Pay Impact](./data-analytics-portfolio/tree/main/Incentive_Impact_Analysis) – Analyzing how piecework models affect operational speed.
-- [Learning Curve Analysis](./data-analytics-portfolio/tree/main/Employee_Learning_Curve) – Measuring the time-to-proficiency for new hires.
-
----
-**"Reflecting on data to find the path forward."**
+### 📊 Featured Projects (in `data-analytics-portfolio`)
+* **Branch Performance Benchmarking** — Identifying "Gold Standard" operational efficiency across regional divisions.
+* **Incentive Pay Impact** — Analyzing how piecework vs. fixed salary models affect task execution speed.
+* **Task Lifecycle & Bottlenecks** — Granular event analytics to reduce customer wait times and staff turnover costs.
